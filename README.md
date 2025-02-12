@@ -6,7 +6,7 @@
 📊 Experienced in working with large datasets, building dashboards, and data storytelling.
 
 <img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
-- 🔭 Here's my [LinkedIn](www.linkedin.com/in/hemalatha-b-508233333)      
+- 🔭 Here's my [LinkedIn](www.linkedin.com/in/hemalatha-b-508233333/)      
 
 - 🌱 I’m currently learning Data Analyst
 
