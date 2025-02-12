@@ -1,8 +1,19 @@
 
-## Hi there 👋 It's me Hemalatha
+## 👋 Hi there! I'm a Data Analyst
 
-Data Analyst
-<img align="right" width="370" height="290" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimishajalota28%2Fhow-people-working-in-data-field-are-a-great-asset-to-an-organization-99e889f9bd1f&psig=AOvVaw3iIV-2fEAxbkANXx13DOLx&ust=1739452105853000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCd1ZmavosDFQAAAAAdAAAAABAe">
+🔍 Passionate about turning data into actionable insights.
+📊 Experienced in working with large datasets, building dashboards, and data storytelling.
+
+Skills
+
+SQL: Data querying, optimization, and management
+Power BI & Tableau: Interactive dashboards, data visualization, and reporting
+Excel: Advanced formulas, Power Query, VBA, and data analysis
+Python: Data cleaning (Pandas), visualization (Matplotlib, Seaborn), automation, and statistical analysis
+GitHub: Version control, collaborative projects, and sharing data-driven solutions
+📈 Always learning new tools and techniques to improve data analysis and visualization.
+💬 Let’s connect and collaborate on data-related projects!
+<img align="right" width="370" height="290" src="https://miro.medium.com/v2/resize:fit:1200/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 - 🔭 Here's my [LinkedIn](www.linkedin.com/in/hemalatha-b-508233333)                                                 
 - 🌱 I’m currently learning Data Analyst
 ### I code in
